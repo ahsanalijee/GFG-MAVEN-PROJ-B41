@@ -28,7 +28,7 @@ public class MyCalc {
 
 	public void msg()
 	{
-		System.out.println("Hello folks");
+		System.out.println("Hi folks");
 	}
 
 	public static void main(String[] args) {
